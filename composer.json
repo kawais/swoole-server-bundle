@@ -1,11 +1,10 @@
 {
-    "name": "emnsen/swoole-server-bundle",
+    "name": "kawais/swoole-server-bundle",
     "description": "Symfony Swoole HTTP Server Bundle",
     "type": "symfony-bundle",
     "authors": [
       {
-        "name": "Emin Şen",
-        "email": "contact@emnsen.com"
+        "name": "kawais"
       }
     ],
     "require": {
